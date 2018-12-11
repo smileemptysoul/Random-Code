@@ -1,0 +1,6 @@
+//CSS to hide mobile toggle button for desktop device
+@media screen and (min-width: 768px) {
+    .btn-mobile-toggle {
+        display: none;
+    }
+}
